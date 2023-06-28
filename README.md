@@ -7,7 +7,7 @@ The password should contain at least one uppercase letter.
 The password should contain at least one lowercase letter.
 The password should contain at least one digit.
 
-# Example
+# Output
 ```Enter your password: myPassword
 Password should be at least 8 characters long.
 Please enter a valid password: securePass123
