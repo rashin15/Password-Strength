@@ -1,7 +1,7 @@
 # Password Strength Checker
 
 This program is a simple password strength checker implemented in C. 
-    It prompts the user to enter a password and checks its strength based on the following criteria:
+It prompts the user to enter a password and checks its strength based on the following criteria:
 The password should be at least 8 characters long.
 The password should contain at least one uppercase letter.
 The password should contain at least one lowercase letter.
